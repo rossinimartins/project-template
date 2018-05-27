@@ -1,0 +1,3 @@
+#   Use this to hide temporary and / or secret files from Git. You should not
+# add references to files that are attached to a specific editor, IDE or
+# operating system (prefer to exclude them in a global way).

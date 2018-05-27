@@ -1,0 +1,36 @@
+repository:
+  name: project-template
+  description: The template that I use for my other projects.
+  private: false
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  default_branch: master
+  allow_squash_merge: true
+  allow_merge_commit: true
+  allow_rebase_merge: true
+labels:
+  - name: "invalid"
+    color: 263238
+  - name: "duplicate"
+    color: 6200EA
+  - name: "not a bug"
+    color: 64DD17
+  - name: "more information needed"
+    color: 3E2723
+  - name: "not reproducible"
+    color: 3E2723
+  - name: "won't fix"
+    color: 0091EA
+  - name: "low priority"
+    color: FFD600
+  - name: "medium priority"
+    color: FF6D00
+  - name: "high priority"
+    color: D50000
+  - name: "new feature"
+    color: FFD600
+  - name: "technical debt"
+    color: FF6D00
+  - name: "bug"
+    color: D50000
