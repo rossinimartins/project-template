@@ -29,7 +29,7 @@ labels:
   - name: "high priority"
     color: D50000
   - name: "new feature"
-    color: FFD600
+    color: 64DD17
   - name: "technical debt"
     color: FF6D00
   - name: "bug"
